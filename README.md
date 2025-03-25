@@ -13,4 +13,10 @@ The food_orders.xlsx file is the main source of data for this project and contai
 These data points will help create various tables in the database that capture the relationships between customers, restaurants, food items, and the delivery process.
 
 ### Conceptual Model
-![Conceptual_Model](Conceptual.png)
+![Conceptual_Model](/images/Conceptual.png)
+
+### Logical Model
+![Logical_Model](/images/Logical.png)
+
+### Physical Model
+![Physical_Model](/images/Physical.png)
