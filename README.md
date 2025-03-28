@@ -1,4 +1,4 @@
-# Quickeats-SQL-Database
+# QuickEats-SQL-Database
 
 ## Description
 The objective of this project is to create a database system for food delivery that will help in running the "QuickEats" food delivery service. The system will handle food items, restaurant menus, customer orders, delivery logistics, and feedback, guaranteeing seamless operation for customers, delivery agents, and restaurant partners. Key company data, including user information, order details, restaurant listings, menu items, and delivery performance, will be stored and arranged in this database. The creation of this database will enable the system to keep track of each customer's past orders, let them order, explore menus from other restaurants, and ask for comments regarding their delivery experience. Data will be efficiently stored by the system, making it simple for business to retrieve it.
